@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "refs": {
+    "test": [
+      "https://raw.githubusercontent.com/sgpinkus/scratch/refs/heads/main/project123_test.csv",
+      0,
+      10000
+    ],
+    "train": [
+      "https://raw.githubusercontent.com/sgpinkus/scratch/refs/heads/main/project123_train.csv",
+      0,
+      10000
+    ]
+  }
+}
